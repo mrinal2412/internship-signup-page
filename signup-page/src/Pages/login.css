@@ -1,0 +1,84 @@
+.invalidMail{
+    border-color: red;
+    height:30px;
+  }
+  .validMail{
+    border-color: black;
+    height: 30px;
+    
+  }
+  .validName{
+    border-color: black;
+    height: 30px;
+  }
+  .invalidName{
+    border-color: red;
+    height: 30px;
+  }
+  .validPass{
+    border-color: black;
+    height: 30px;
+  }
+  .invalidPass{
+    border-color:red;
+    height: 30px;
+  }
+.title{
+  margin: auto;
+  width: 20%;
+  color:green;
+  padding: 10px;
+  margin-left: 780px;
+  margin-top: 50px;
+  font-size:x-large
+
+}
+.name{
+  margin: auto;
+  width: 50%;
+  height:20%;
+  padding: 10px;
+}
+.email{
+  margin: auto;
+  width: 50%;
+  height: 15%;
+  padding: 10px;
+}
+.pass{
+  margin: auto;
+  width: 50%;
+  height:1%;
+  padding: 10px;
+}
+.fonts{
+  font-weight: bolder;
+  font-size:large;
+  font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.loginbox{
+  background-color:white;
+  margin: 0;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+  width: 20%;
+  height:60%;
+}
+.submit{
+  margin-left: 10px;
+  margin-top: 50px;
+  width: 160px;
+  height: 36px;  
+  background-color: blue; 
+ 
+  border: none;
+  color:white;   
+  font-size:14px;
+  font-weight:700;
+
+}
+
+
